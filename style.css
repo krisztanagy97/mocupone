@@ -1,0 +1,34 @@
+
+/*.balrabb{
+    padding-left: 10%;
+}*/
+.elem2{
+    margin-right:-15px;
+    margin-left: 0px;
+}
+.elem1{
+    margin-right: -15px;
+    margin-left:0px;
+}
+.one{
+    margin-left:15px;
+}
+.two{
+    margin: 20% 50% 20% 50%;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kk{
+    height: 56%;
+    border: 2px black solid;
+    margin:5px;
+}
+.kk img{
+    margin-left: 10px;
+}
+.ss{
+    border: 2px black solid;
+    margin:5px;
+}
